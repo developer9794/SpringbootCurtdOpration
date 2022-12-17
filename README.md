@@ -1,0 +1,2 @@
+# SpringbootCurtdOpration
+Simple Springboot Application
